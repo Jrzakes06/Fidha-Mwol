@@ -1,5 +1,5 @@
 {
-  "name": "FidhaMwol",
+  "name": "KimmyZakes",
   "version": "7.3.6",
   "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
   "main": "./Julie-Mwol/bot.js",
@@ -17,7 +17,7 @@
     "fidha",
     "FidhaMwol"
   ],
-  "author": "Hypersir",
+  "author": "JuniorZakeyo",
   "developer": "@Hypersir / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
