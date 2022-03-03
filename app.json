@@ -1,6 +1,6 @@
 {
-    "name": "Fidha-Mwol",
-    "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
+    "name": "kimmy Zakes",
+    "description": "Kimmy Zakes is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
     "logo": "https://i.imgur.com/4Oir08c.jpeg",
     "keywords": ["whatsapp", "userbot", "fidha", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Hypersir/Fidha-Mwol",
@@ -56,7 +56,7 @@
             "required": true
         },
         "BOT_NAME": {
-            "description": "Type here yours bot name. Heading for .help command reply",
+            "description": "Kimmy Zakes. Heading for .help command reply",
             "required": false,
             "value": "Ғɪᴅʜᴀ Ꮇᴡᴏʟ"
         },
